@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm [Your Name], a **Psychologist with an MBA**, combining expertise in human behavior with technology to create innovative solutions. I specialize in designing and building wellness and psychology-focused apps, leveraging my background and skills in tech and creativity.
+I'm Gastón, a **Psychologist with an MBA**, combining expertise in human behavior with technology to create innovative solutions. I specialize in designing and building wellness and psychology-focused apps, leveraging my background and skills in tech and creativity.
 
 ## 🔧 Skills
 - Programming: Python, HTML
